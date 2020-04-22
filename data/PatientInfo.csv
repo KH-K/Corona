@@ -624,6 +624,6 @@ patient_id,global_num,sex,birth_year,age,country,province,city,disease,infection
 1000000623,10658,,,,,Seoul,Gangnam-gu,,overseas inflow,,2020-04-17
 1000000624,10659,,,,,Seoul,Gangnam-gu,,overseas inflow,,2020-04-18
 1000000625,10681,,,,,Seoul,Gangseo-gu,,,,2020-04-19
-1000000626,10683,,,,,Seoul,Mapo-gu,,oversea inflow,,2020-04-20
-1000000627,10693,,,,,Seoul,Mapo-gu,,oversea inflow,,2020-04-21
-1000000628,10691,,,,,Seoul,etc,,oversea inflow,,2020-04-21
+1000000626,10683,,,,,Seoul,Mapo-gu,,overseas inflow,,2020-04-20
+1000000627,10693,,,,,Seoul,Mapo-gu,,overseas inflow,,2020-04-21
+1000000628,10691,,,,,Seoul,etc,,overseas inflow,,2020-04-21
